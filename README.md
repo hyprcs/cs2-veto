@@ -1,6 +1,6 @@
 # CS2 Veto Predictor
 
-**Live app: https://rentfreegas.github.io/cs2-veto/**
+**Live app: https://hyprcs.github.io/cs2-veto/**
 
 > **Work in progress** — this is an early version of the model, trained on a
 > partial match history. It will be retrained on a much larger dataset within
@@ -60,7 +60,7 @@ prediction project and copied here.
 **Cloudflare Pages** (planned move):
 
 1. Cloudflare dashboard → **Workers & Pages → Create → Pages →
-   Connect to Git** and pick this repo (`rentfreegas/cs2-veto`).
+   Connect to Git** and pick this repo (`hyprcs/cs2-veto`).
 2. Project name: whatever the site should be called, e.g.
    `cs2esportsvetopredictor` (becomes
    `cs2esportsvetopredictor.pages.dev`).
